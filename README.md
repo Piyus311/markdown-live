@@ -20,4 +20,4 @@ Contact [Yash Soni](https://iyashsoni.web.app)
 This would not be possible without [react-markdown](https://www.npmjs.com/package/react-markdown). Thanks a ton!
 
 ---
-Made with ❤️ in 🇮🇳
+Made with ❤️  in 🇮🇳
